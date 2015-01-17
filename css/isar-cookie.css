@@ -1,0 +1,17 @@
+.isar-cookie {
+    background-color: rgba(245,245,245,0.95);
+    border-top: 1px solid rgba(38, 38, 38, 0.2);
+    left: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 9;
+	margin-bottom: 0;
+	padding: 8px 30px 15px;
+}
+.isar-cookie p {
+	margin-bottom: 0;
+	font-size:12px;
+}
+.isar-cookie button{ margin: auto 15px; }
+.isar-cookie a{ color: #af2715; }
