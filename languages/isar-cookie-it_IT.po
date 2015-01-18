@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iSar Cookie\n"
-"POT-Creation-Date: 2015-01-17 20:49+0100\n"
-"PO-Revision-Date: 2015-01-17 20:49+0100\n"
+"POT-Creation-Date: 2015-01-18 01:52+0100\n"
+"PO-Revision-Date: 2015-01-18 01:52+0100\n"
 "Last-Translator: iSar <i5ar@live.it>\n"
 "Language-Team: \n"
 "Language: it_IT\n"
@@ -16,12 +16,20 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
 
-#: ../isar-cookie.php:18
+#: ../isar-cookie.php:22
 msgid "This website uses cookies to simplify and improve the user experience"
 msgstr ""
 "Questo sito web fa uso di \"cookies\" per semplificare ed ottimizzare "
 "l'esperienza dell'utente"
 
-#: ../isar-cookie.php:19
+#: ../isar-cookie.php:23
 msgid "I Agree"
 msgstr "Confermo"
+
+#: ../isar-cookie.php:24
+msgid "Read more"
+msgstr "Leggi più informazioni"
+
+#: ../isar-cookie.php:25
+msgid "privacy"
+msgstr "riservatezza"
