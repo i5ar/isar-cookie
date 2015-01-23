@@ -6,9 +6,7 @@ Just a WordPress cookie plugin.
 
 WordPress v4.0.0
 
-### Todo
-
-- Fix the localization.
+Polylang v1.6.3
 
 ### License
 
