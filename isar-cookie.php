@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: iSar Cookie
- * Plugin URI: https://github.com/i5ar/isar-cookie/
+ * Plugin URI: https://github.com/i5ar/isar-cookie
  * Description: The iSar Simple Cookie.
  * Version: 1.0.1
  * Author: Pierpaolo Rasicci
- * Author URI: http://isarch.it/three.html
+ * Author URI: http://three.isarch.it
  * Text Domain: isar-cookie
  * Domain Path: /languages/
  * License: GPL
