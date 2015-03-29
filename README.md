@@ -12,10 +12,11 @@ Polylang v1.6.3
 
 ### License
 
-GNU General Public License
+[GNU General Public License]
 
 ___
 
 *Non men che saver, dubbiar m'aggrata.*
 
 [functions.php]:http://codex.wordpress.org/Functions_File_Explained
+[GNU General Public License]:https://wordpress.org/about/license/
