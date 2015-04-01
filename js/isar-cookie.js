@@ -8,7 +8,7 @@ jQuery(document).ready(function($) {
 		});
 	}
 	// Require Polylang plug-in & Pop-up script
-	if('en' == $.cookie('pll_language') && 'MODAL' !== $.cookie('pll_language_ic')) {
+	if('MODAL' !== $.cookie('pll_language_ic')) {                   // Use 'en' == $.cookie('pll_language')
 		//window.onload = function() {
 			setTimeout(function() {
 				$('#slide').popup('show');							// Open language Pop-up
