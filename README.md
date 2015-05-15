@@ -1,4 +1,4 @@
-isar-cookie
+iSar Cookie
 ===========
 Just a WordPress cookie plugin.
 
