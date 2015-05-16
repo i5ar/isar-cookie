@@ -8,14 +8,17 @@ jQuery(document).ready(function($) {
 		});
 	}
 	// Require Polylang plug-in & Pop-up script
-	if('MODAL' !== $.cookie('pll_language_ic')) {                   // Use 'en' == $.cookie('pll_language')
+	if('MODAL' !== $.cookie('pll_modal_ic')) {
 		//window.onload = function() {
 			setTimeout(function() {
 				$('#slide').popup('show');							// Open language Pop-up
 			}, 3000);												// Open after 3 seconds the page load
 		//};
 		$('.slide_close').click(function() {
-			$.cookie('pll_language_ic', 'MODAL', { expires: null, path: '/' });
+			$.cookie('pll_modal_ic', 'MODAL', { expires: null, path: '/' });				// Set MODAL cookie
+			var userLang = document.documentElement.lang;									// Get document language
+			var userLangSub = userLang.substring(0,2)										// Get first two characters from lang attribute
+			$.cookie('pll_language_modal_ic', userLangSub, { expires: null, path: '/' });	// Set language MODAL cookie
 		});
 	}
 });
