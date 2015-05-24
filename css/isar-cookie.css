@@ -17,3 +17,4 @@
 .isar-cookie button{ margin: auto 15px; }
 .isar-cookie a{ color: #af2715; }
 .isar-cookie .genericon { vertical-align: text-bottom; }
+.isar-cookie.widget { margin-bottom: 0; }
