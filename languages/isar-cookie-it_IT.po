@@ -1,35 +1,55 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: iSar Cookie\n"
-"POT-Creation-Date: 2015-01-18 01:52+0100\n"
-"PO-Revision-Date: 2015-01-18 01:52+0100\n"
+"POT-Creation-Date: 2015-05-27 15:47+0100\n"
+"PO-Revision-Date: 2015-05-27 15:47+0100\n"
 "Last-Translator: iSar <i5ar@live.it>\n"
 "Language-Team: \n"
 "Language: it_IT\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.3\n"
+"X-Generator: Poedit 1.7.6\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
 
-#: ../isar-cookie.php:22
+#: ../isar-cookie.php:39
+msgid "You are in the section"
+msgstr "Siete nella sezione"
+
+#: ../isar-cookie.php:39
+msgid ""
+"of the website therefore you may find some mismatch of contents with other "
+"languages."
+msgstr ""
+"del sito e non tutti i contenuti potrebbero essere disponibili per questa "
+"lingua."
+
+#: ../isar-cookie.php:43
+msgid "Available contents: "
+msgstr "Contenuti disponibili: "
+
+#: ../isar-cookie.php:47
+msgid "Close"
+msgstr "Chiudi"
+
+#: ../isar-cookie.php:64
 msgid "This website uses cookies to simplify and improve the user experience"
 msgstr ""
 "Questo sito web fa uso di \"cookies\" per semplificare ed ottimizzare "
 "l'esperienza dell'utente"
 
-#: ../isar-cookie.php:23
+#: ../isar-cookie.php:65
 msgid "I Agree"
 msgstr "Confermo"
 
-#: ../isar-cookie.php:24
+#: ../isar-cookie.php:66
 msgid "Read more"
 msgstr "Leggi più informazioni"
 
-#: ../isar-cookie.php:25
+#: ../isar-cookie.php:67
 msgid "privacy"
 msgstr "riservatezza"
