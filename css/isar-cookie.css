@@ -53,3 +53,5 @@
 	padding:15px;
 	color: #000;
 }
+/* Bootstrap */
+.hide { display: none !important }
