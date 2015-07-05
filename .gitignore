@@ -14,14 +14,3 @@ $RECYCLE.BIN/
 
 # Mac crap
 .DS_Store
-
-
-#############
-## Plugin files
-#############
-
-# Libraries
-js/jquery.cookie.js
-
-# Translations
-languages/*.mo
