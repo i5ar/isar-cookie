@@ -5,7 +5,7 @@
  * Description: iSar Cookie sets POLICY and MODAL cookies as well as the entry language cookie.
  * Version: 1.0.2
  * Author: Pierpaolo Rasicci
- * Author URI: http://three.isarch.it
+ * Author URI: http://c.isarch.it
  * Text Domain: isar-cookie
  * Domain Path: /languages/
  * License: GPL
